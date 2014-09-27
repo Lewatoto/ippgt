@@ -2,5 +2,5 @@ ippgt
 =====
 
 Imágenes de los partidos póliticos activos en Guatemala, 
-a la fecha todas tomadas de wikipedia, estás fueron subidas 
+imágenes tomadas de wikipedia, las cuales fueron subidas 
 por el usuario Rijkaard.
